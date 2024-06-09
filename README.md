@@ -27,7 +27,7 @@ O projeto foi iniciado com o Spring Initializr e possui a seguinte estrutura bá
     - **ScreenmatchApplication.java**: Classe principal que inicializa a aplicação.
     - **principal**: Contém a classe `Principal` que exibe o menu e processa as informações.
     - **model**: Contém as classes de modelo (`DadosSerie`, `DadosTemporada`, `DadosEpisodio`, `Episodio`).
-    - **service**: Contém as classes de serviço (`ConsumoApi`, `ConverteDados`).
+    - **service**: Contém as classes de serviço (`ConsumoApi`, `ConverteDados`, `IConverteDados`).
 - **src/test/java**: Contém os testes da aplicação.
 - **pom.xml**: Arquivo de configuração do Maven.
 

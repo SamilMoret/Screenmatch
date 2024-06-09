@@ -1,5 +1,8 @@
 # Screenmatch sem Web
 
+![Demonstração do Screenmatch sem Web ](https://github.com/SamilMoret/Screenmatch/blob/main/Anima%C3%A7%C3%A3o.gif)
+
+
 ## Descrição
 
 Screenmatch é um projeto desenvolvido durante o curso de "Java: trabalhando com lambdas, streams e Spring Framework" da Alura. O objetivo do projeto é consumir dados de séries da API OMDb, processar essas informações e exibi-las de forma estruturada. A aplicação é construída utilizando o Spring Framework e Maven, iniciando como uma aplicação de linha de comando.

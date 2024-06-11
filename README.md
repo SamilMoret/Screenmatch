@@ -36,7 +36,6 @@ O projeto foi iniciado com o Spring Initializr e possui a seguinte estrutura bá
 1. **Buscar dados de séries**: Consome dados de séries da API OMDb.
 2. **Exibir informações gerais**: Exibe informações gerais da série, incluindo temporadas e episódios.
 3. **Filtrar e processar dados**: Filtra os episódios com base em critérios específicos, como número de visualizações e avaliações.
-4. **Log de transações**: Utiliza a Stream API para processar e logar transações bancárias fictícias com valores superiores a 5000.
 
 ## Início Rápido
 
